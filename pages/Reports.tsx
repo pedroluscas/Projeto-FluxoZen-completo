@@ -629,7 +629,7 @@ export const Reports: React.FC = () => {
             {/* --- RETAINED: CATEGORY DRILL DOWN --- */}
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 break-before-page">
                 <Card title="Detalhamento por Categoria (Interativo)" className="break-inside-avoid shadow-sm overflow-hidden">
-                    <div ref={distributionRef} className="grid grid-cols-1 md:grid-cols-2 gap-4 h-80 bg-white">
+                    <div ref={distributionRef} className="grid grid-cols-1 md:grid-cols-2 gap-4 h-80 bg-white dark:bg-corporate-800">
                         {/* Expense Donut */}
                         <div className="relative">
                             <p className="text-center text-xs font-bold text-corporate-400 mb-2 uppercase">Despesas</p>
