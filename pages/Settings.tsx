@@ -317,7 +317,7 @@ export const Settings: React.FC = () => {
                         <ShieldCheck size={24} className="text-indigo-300" />
                     </div>
                     <div>
-                        <h3 className="font-bold text-white text-lg mb-0.5">Plano Enterprise</h3>
+                        <h3 className="font-bold text-white text-lg mb-0.5">Plano Beta Test</h3>
                         <p className="text-indigo-200 text-sm max-w-md leading-relaxed">Sua assinatura está ativa e inclui recursos de Business Intelligence e Whitelabel.</p>
                     </div>
                 </div>
